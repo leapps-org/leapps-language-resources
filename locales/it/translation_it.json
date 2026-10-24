@@ -172,5 +172,8 @@
   "processed_files.changed_time": "",
   "processed_files.created_time": "",
   "processed_files.time_source": "",
-  "processed_files.zip_dos_time": ""
+  "processed_files.modified_no_zone": "",
+  "processed_files.created_no_zone": "",
+  "processed_files.accessed_no_zone": "",
+  "processed_files.utc_offsets_as_stored": ""
 }
