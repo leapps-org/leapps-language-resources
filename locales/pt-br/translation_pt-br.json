@@ -174,5 +174,13 @@
   "unknown": "Desconhecido",
   "watched_folders": "Pastas monitoradas",
   "welcome_to_lava": "Bem-vindo ao LAVA",
-  "yes": "Sim"
+  "yes": "Sim",
+  "processed_files.kind": "",
+  "processed_files.sha256": "",
+  "processed_files.modified_time": "",
+  "processed_files.accessed_time": "",
+  "processed_files.changed_time": "",
+  "processed_files.created_time": "",
+  "processed_files.time_source": "",
+  "processed_files.zip_dos_time": ""
 }
