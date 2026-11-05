@@ -687,7 +687,6 @@
   "time_window.button": "Time window",
   "time_window.category_tooltip": "{{category}} ({{artifacts}}; {{total_records}} in the time window, plus the full count of any artifact with no timestamp column)",
   "time_window.chip_tooltip": "{{range}}. Click to change it.",
-  "time_window.day_compact": "{{date}} {{timezone}}",
   "time_window.export_note": "Time window: {{range}}",
   "time_window.help": "Shows only the rows whose time falls in this range in every artifact table, count, conversation list and Find in all artifacts. Inside a conversation, messages outside the range fold into filtered-out markers. Rows with no time in the tested column drop out. Tagged rows, tag exports and the QC sample still cover the whole case.",
   "time_window.hide_untimed_label": "Hide untimed artifacts",
