@@ -4,34 +4,34 @@
   <text x="12" y="26" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="600" fill="#000000">LEAPPs UI Translation Progress</text>
   <text x="12" y="67" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">Deutsch / German (de)</text>
   <rect x="230" y="53" width="380" height="18" rx="4" ry="4" fill="#e5e7eb"/>
-  <rect x="230" y="53" width="110" height="18" rx="4" ry="4" fill="#dc2626"/>
-  <text x="620" y="67" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">29.0%</text>
+  <rect x="230" y="53" width="108" height="18" rx="4" ry="4" fill="#dc2626"/>
+  <text x="620" y="67" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">28.4%</text>
   <text x="12" y="103" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">English / English (en)</text>
   <rect x="230" y="89" width="380" height="18" rx="4" ry="4" fill="#e5e7eb"/>
   <rect x="230" y="89" width="380" height="18" rx="4" ry="4" fill="#16a34a"/>
   <text x="620" y="103" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">100.0%</text>
   <text x="12" y="139" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">Español / Spanish (es)</text>
   <rect x="230" y="125" width="380" height="18" rx="4" ry="4" fill="#e5e7eb"/>
-  <rect x="230" y="125" width="112" height="18" rx="4" ry="4" fill="#dc2626"/>
-  <text x="620" y="139" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">29.5%</text>
+  <rect x="230" y="125" width="110" height="18" rx="4" ry="4" fill="#dc2626"/>
+  <text x="620" y="139" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">28.9%</text>
   <text x="12" y="175" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">Français / French (fr)</text>
   <rect x="230" y="161" width="380" height="18" rx="4" ry="4" fill="#e5e7eb"/>
-  <rect x="230" y="161" width="112" height="18" rx="4" ry="4" fill="#dc2626"/>
-  <text x="620" y="175" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">29.5%</text>
+  <rect x="230" y="161" width="110" height="18" rx="4" ry="4" fill="#dc2626"/>
+  <text x="620" y="175" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">28.9%</text>
   <text x="12" y="211" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">it / it (it)</text>
   <rect x="230" y="197" width="380" height="18" rx="4" ry="4" fill="#e5e7eb"/>
-  <rect x="230" y="197" width="84" height="18" rx="4" ry="4" fill="#dc2626"/>
-  <text x="620" y="211" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">22.1%</text>
+  <rect x="230" y="197" width="82" height="18" rx="4" ry="4" fill="#dc2626"/>
+  <text x="620" y="211" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">21.6%</text>
   <text x="12" y="247" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">pt / pt (pt)</text>
   <rect x="230" y="233" width="380" height="18" rx="4" ry="4" fill="#e5e7eb"/>
-  <rect x="230" y="233" width="112" height="18" rx="4" ry="4" fill="#dc2626"/>
-  <text x="620" y="247" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">29.5%</text>
+  <rect x="230" y="233" width="110" height="18" rx="4" ry="4" fill="#dc2626"/>
+  <text x="620" y="247" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">28.9%</text>
   <text x="12" y="283" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">pt-br / pt-br (pt-br)</text>
   <rect x="230" y="269" width="380" height="18" rx="4" ry="4" fill="#e5e7eb"/>
-  <rect x="230" y="269" width="79" height="18" rx="4" ry="4" fill="#dc2626"/>
-  <text x="620" y="283" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">20.8%</text>
+  <rect x="230" y="269" width="78" height="18" rx="4" ry="4" fill="#dc2626"/>
+  <text x="620" y="283" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#000000">20.4%</text>
   <text x="12" y="314" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">Source key file: locales/en/translation_en.json</text>
-  <text x="12" y="328" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">Total source keys: 787</text>
-  <text x="12" y="342" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">Last updated: 2026-11-05 22:18:42</text>
+  <text x="12" y="328" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">Total source keys: 804</text>
+  <text x="12" y="342" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">Last updated: 2026-11-05 23:57:29</text>
   <text x="12" y="356" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">Generated by: python scripts/generate-language-stats.py</text>
 </svg>
