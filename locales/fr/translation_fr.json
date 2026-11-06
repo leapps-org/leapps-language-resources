@@ -331,6 +331,8 @@
   "filtered_messages_many": "{{count}} messages filtrés",
   "filtered_messages_other": "{{count}} messages filtrés",
   "invalid": "Invalide",
+  "large_integers.note": "Les entiers dans {{columns}} dépassent ce que LAVA peut afficher exactement, ils sont donc affichés, copiés et exportés arrondis. La base de données du dossier et les exports de projet LAVA conservent les valeurs enregistrées.",
+  "large_integers.short": "Certains nombres ici sont trop grands pour être affichés exactement.",
   "loading": "Chargement",
   "media.created": "Créé",
   "media.extraction_path": "Chemin d'extraction",

@@ -331,6 +331,8 @@
   "filtered_messages_many": "Mensajes filtrados varios",
   "filtered_messages_other": "Mensajes filtrados otro",
   "invalid": "Inválido",
+  "large_integers.note": "Los enteros en {{columns}} son mayores de lo que LAVA puede mostrar con exactitud, por lo que se muestran, copian y exportan redondeados. La base de datos del caso y las exportaciones de proyecto LAVA conservan los valores guardados.",
+  "large_integers.short": "Algunos números aquí son demasiado grandes para mostrarse con exactitud.",
   "loading": "Cargando",
   "media.created": "Creado",
   "media.extraction_path": "Ruta de extracción",

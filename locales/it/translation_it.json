@@ -330,6 +330,8 @@
   "filtered_messages_many": "{{count}} Messaggi filtrati",
   "filtered_messages_other": "{{count}} Messaggi filtrati",
   "invalid": "Non valido",
+  "large_integers.note": "Gli interi in {{columns}} superano ciò che LAVA può mostrare con esattezza, quindi vengono mostrati, copiati ed esportati arrotondati. Il database del caso e le esportazioni di progetto LAVA mantengono i valori salvati.",
+  "large_integers.short": "Alcuni numeri qui sono troppo grandi per essere mostrati con esattezza.",
   "loading": "In caricamento",
   "media.created": "Creato",
   "media.extraction_path": "Percorso di estrazione",
