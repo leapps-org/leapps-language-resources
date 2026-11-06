@@ -435,6 +435,7 @@
   "save_ui_state.tooltip.auto": "Lo stato UI viene salvato automaticamente",
   "save_ui_state.tooltip.manual": "Click per il salvataggio manuale dello stato UI",
   "search.add_examples": "",
+  "search.back_to_results": "",
   "search.col_artifact": "",
   "search.col_rows": "",
   "search.col_terms": "",
