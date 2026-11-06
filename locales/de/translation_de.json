@@ -311,6 +311,8 @@
   "filtered_messages_many": "{{count}} Nachrichten wurden herausgefiltert",
   "filtered_messages_other": "{{count}} Nachrichten wurden herausgefiltert",
   "invalid": "Ungültig",
+  "large_integers.note": "Ganzzahlen in {{columns}} sind größer, als LAVA exakt anzeigen kann, daher werden sie gerundet angezeigt, kopiert und exportiert. Die Falldatenbank und LAVA-Projektexporte behalten die gespeicherten Werte.",
+  "large_integers.short": "Einige Zahlen hier sind zu groß, um sie exakt anzuzeigen.",
   "loading": "Wird geladen",
   "media.created": "Erstellt",
   "media.extraction_path": "Extraktionspfad",

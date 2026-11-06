@@ -331,6 +331,8 @@
   "filtered_messages_many": "",
   "filtered_messages_other": "",
   "invalid": "",
+  "large_integers.note": "",
+  "large_integers.short": "",
   "loading": "",
   "media.created": "",
   "media.extraction_path": "",

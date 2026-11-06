@@ -303,6 +303,8 @@
   "filtered_messages_one": "{{count}} message filtered out",
   "filtered_messages_other": "{{count}} messages filtered out",
   "invalid": "Invalid",
+  "large_integers.note": "Integers in {{columns}} are larger than LAVA can show exactly, so they are shown, copied and exported rounded. The case database and LAVA project exports keep the stored values.",
+  "large_integers.short": "Some numbers here are too large to show exactly.",
   "loading": "Loading",
   "media.created": "Created",
   "media.extraction_path": "Extraction Path",
