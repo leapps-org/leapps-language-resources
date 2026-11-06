@@ -642,6 +642,7 @@
   "tags.examiner_note": "Nota do examinador",
   "tags.export_blocked_record_saved": "Detalhes guardados nos registos de filtragem do caso: {{file}}",
   "tags.export_button": "Exportar…",
+  "tags.export_checks_recorded": "Se exportar sem etiquetar, o registo da exportação nos registos de filtragem do caso enumera cada uma.",
   "tags.export_copies_common_one": "{{count}} valor comum não foi proposto: corresponde a mais de {{limit}} linhas mantidas",
   "tags.export_copies_common_many": "{{count}} valores comuns não foram propostos: cada um corresponde a mais de {{limit}} linhas mantidas",
   "tags.export_copies_common_other": "{{count}} valores comuns não foram propostos: cada um corresponde a mais de {{limit}} linhas mantidas",

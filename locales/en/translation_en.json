@@ -596,6 +596,7 @@
   "tags.examiner_note": "Examiner note",
   "tags.export_blocked_record_saved": "Details saved in the case's filter records: {{file}}",
   "tags.export_button": "Export…",
+  "tags.export_checks_recorded": "If you export without tagging, the export record in the case's filter records lists each one.",
   "tags.export_copies_common_one": "{{count}} common value was not offered: it matches more than {{limit}} kept rows",
   "tags.export_copies_common_other": "{{count}} common values were not offered: each matches more than {{limit}} kept rows",
   "tags.export_copies_common_row": "{{rows}} kept rows · from {{source}} rowid {{sourceRowid}}",

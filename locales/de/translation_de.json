@@ -605,6 +605,7 @@
   "tags.examiner_note": "Prüfernotiz",
   "tags.export_blocked_record_saved": "Details in den Filterprotokollen des Falls gespeichert: {{file}}",
   "tags.export_button": "Exportieren…",
+  "tags.export_checks_recorded": "Wenn Sie ohne Markieren exportieren, listet das Exportprotokoll in den Filterprotokollen des Falls jede einzeln auf.",
   "tags.export_copies_common_one": "{{count}} häufiger Wert wurde nicht angeboten: Er passt zu mehr als {{limit}} beibehaltenen Zeilen",
   "tags.export_copies_common_other": "{{count}} häufige Werte wurden nicht angeboten: Jeder passt zu mehr als {{limit}} beibehaltenen Zeilen",
   "tags.export_copies_common_row": "{{rows}} beibehaltene Zeilen · aus {{source}} rowid {{sourceRowid}}",

@@ -643,6 +643,7 @@
   "tags.examiner_note": "Note de l'examinateur",
   "tags.export_blocked_record_saved": "Détails enregistrés dans les registres de filtrage du dossier : {{file}}",
   "tags.export_button": "Exporter…",
+  "tags.export_checks_recorded": "Si vous exportez sans étiqueter, le registre de l’export dans les registres de filtrage du dossier les liste une par une.",
   "tags.export_copies_common_one": "{{count}} valeur courante n'a pas été proposée : elle correspond à plus de {{limit}} lignes conservées",
   "tags.export_copies_common_many": "{{count}} valeurs courantes n'ont pas été proposées : chacune correspond à plus de {{limit}} lignes conservées",
   "tags.export_copies_common_other": "{{count}} valeurs courantes n'ont pas été proposées : chacune correspond à plus de {{limit}} lignes conservées",

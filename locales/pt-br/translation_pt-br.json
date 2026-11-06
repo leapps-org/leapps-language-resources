@@ -643,6 +643,7 @@
   "tags.examiner_note": "Nota do examinador",
   "tags.export_blocked_record_saved": "Detalhes salvos nos registros de filtragem do caso: {{file}}",
   "tags.export_button": "Exportar…",
+  "tags.export_checks_recorded": "Se você exportar sem marcar, o registro da exportação nos registros de filtragem do caso lista cada uma.",
   "tags.export_copies_common_one": "{{count}} valor comum não foi oferecido: corresponde a mais de {{limit}} linhas mantidas",
   "tags.export_copies_common_many": "{{count}} valores comuns não foram oferecidos: cada um corresponde a mais de {{limit}} linhas mantidas",
   "tags.export_copies_common_other": "{{count}} valores comuns não foram oferecidos: cada um corresponde a mais de {{limit}} linhas mantidas",
