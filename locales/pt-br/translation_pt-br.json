@@ -242,6 +242,7 @@
   "exportv2.include_logs_tip": "Estes listam caminhos de arquivos de origem, que podem nomear arquivos sob sigilo profissional. As informações do dispositivo são sempre incluídas.",
   "exportv2.include_media": "Mídia",
   "exportv2.include_paths": "Nome da pasta de origem e caminhos",
+  "exportv2.include_paths_html_tip": "O nome da pasta do caso e o caminho do arquivo .lava de origem. Os nomes das pastas podem indicar um cliente ou um advogado.",
   "exportv2.include_paths_tip": "O nome da pasta do caso, o caminho do .lava de origem e os caminhos de entrada, saída e perfil do LEAPP. Nomes de pastas podem identificar um cliente ou um advogado.",
   "exportv2.label": "Rótulo da produção",
   "exportv2.label_tip": "Opcional, por exemplo Entrega 1. Exibido para quem abrir a exportação.",

@@ -242,6 +242,7 @@
   "exportv2.include_logs_tip": "Estos listan rutas de archivos de origen, que pueden nombrar archivos protegidos por privilegio legal. La información del dispositivo siempre se incluye.",
   "exportv2.include_media": "Multimedia",
   "exportv2.include_paths": "Nombre de la carpeta de origen y rutas",
+  "exportv2.include_paths_html_tip": "El nombre de la carpeta del caso y la ruta del archivo .lava de origen. Los nombres de carpeta pueden nombrar a un cliente o a un abogado.",
   "exportv2.include_paths_tip": "El nombre de la carpeta del caso, la ruta del archivo .lava de origen y las rutas de entrada, salida y perfil de LEAPP. Los nombres de carpeta pueden nombrar a un cliente o a un abogado.",
   "exportv2.label": "Rótulo de la producción",
   "exportv2.label_tip": "Opcional, por ejemplo Entrega 1. Se muestra a quien abra la exportación.",
