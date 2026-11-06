@@ -664,6 +664,8 @@
   "tags.export_supersedes_not_subset": "That file is not a LAVA subset export",
   "tags.export_supersedes_source_mismatch": "The export it replaces was made from a different artifact database (its source SHA-256 does not match). Rows can only be compared within one source.",
   "tags.export_supersedes_unlabeled": "unlabeled export",
+  "tags.export_tagged_rows_released_one": "{{count}} tagged row would have gone to the reviewer, so nothing was exported. A withhold export keeps out every tagged row in the case unless its tags are set to Ignore or Redact. Check the Tags step and try again.",
+  "tags.export_tagged_rows_released_other": "{{count}} tagged rows would have gone to the reviewer, so nothing was exported. A withhold export keeps out every tagged row in the case unless its tags are set to Ignore or Redact. Check the Tags step and try again.",
   "tags.export_title": "Export tagged rows",
   "tags.export_type_html_media_note": "For large amounts of media, the subset project is recommended.",
   "tags.fingerprint_warning_body": "The artifact database has changed since tags were saved. Tagged rows may no longer match their original content.",

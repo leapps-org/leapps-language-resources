@@ -673,6 +673,8 @@
   "tags.export_supersedes_not_subset": "Diese Datei ist kein LAVA-Teilmengenexport",
   "tags.export_supersedes_source_mismatch": "Der Export, den er ersetzt, wurde aus einer anderen Artefaktdatenbank erstellt (sein Quell-SHA-256 stimmt nicht überein). Zeilen können nur innerhalb einer Quelle verglichen werden.",
   "tags.export_supersedes_unlabeled": "Export ohne Bezeichnung",
+  "tags.export_tagged_rows_released_one": "{{count}} getaggte Zeile wäre an den Prüfer gegangen, daher wurde nichts exportiert. Ein Zurückhaltungsexport hält jede getaggte Zeile im Fall zurück, sofern ihre Tags nicht auf Ignorieren oder Schwärzen stehen. Prüfen Sie den Schritt Tags und versuchen Sie es erneut.",
+  "tags.export_tagged_rows_released_other": "{{count}} getaggte Zeilen wären an den Prüfer gegangen, daher wurde nichts exportiert. Ein Zurückhaltungsexport hält jede getaggte Zeile im Fall zurück, sofern ihre Tags nicht auf Ignorieren oder Schwärzen stehen. Prüfen Sie den Schritt Tags und versuchen Sie es erneut.",
   "tags.export_title": "Markierte Zeilen exportieren",
   "tags.export_type_html_media_note": "Bei großen Mengen an Medien wird das Teilmengenprojekt empfohlen.",
   "tags.fingerprint_warning_body": "Die Artefaktdatenbank hat sich geändert, seit die Markierungen gespeichert wurden. Markierte Zeilen stimmen möglicherweise nicht mehr mit ihrem ursprünglichen Inhalt überein.",
