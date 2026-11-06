@@ -178,7 +178,6 @@
   "export.page_size": "Page Size",
   "export.participants": "Participants",
   "export.pdf_export_menu": "PDF Export This Conversation",
-  "export.pdf_export_options_title": "PDF Export Options",
   "export.project": "Project",
   "export.rows_to_export": "Rows to export",
   "export.selected_rows_one": "Selected row ({{count}})",
