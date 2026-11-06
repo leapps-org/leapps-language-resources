@@ -73,6 +73,8 @@
   "confirm_close_project_title": "Fermer le projet ?",
   "conversation": "Conversation",
   "conversation.badge_shows": "",
+  "conversation.export_pdf": "",
+  "conversation.export_pdf_pick_first": "",
   "conversation.extras_columns_hint": "",
   "conversation.extras_columns_label": "",
   "conversation.extras_columns_placeholder": "",

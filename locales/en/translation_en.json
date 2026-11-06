@@ -68,6 +68,8 @@
   "confirm_close_project_title": "Close Project?",
   "conversation": "Conversation",
   "conversation.badge_shows": "Badge shows",
+  "conversation.export_pdf": "Export PDF",
+  "conversation.export_pdf_pick_first": "Select a conversation on the left to export it as a PDF.",
   "conversation.extras_columns_hint": "Columns already used by the conversation layout are not listed.",
   "conversation.extras_columns_label": "Additional columns",
   "conversation.extras_columns_placeholder": "Select columns to show on each message",
