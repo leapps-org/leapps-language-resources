@@ -642,6 +642,7 @@
   "tags.examiner_note": "Nota dell'analista",
   "tags.export_blocked_record_saved": "Dettagli salvati nei registri di filtraggio del caso: {{file}}",
   "tags.export_button": "Esporta…",
+  "tags.export_checks_recorded": "Se esporti senza etichettare, il registro dell’esportazione nei registri di filtraggio del caso le elenca una per una.",
   "tags.export_copies_common_one": "{{count}} valore comune non è stato proposto: corrisponde a più di {{limit}} righe mantenute",
   "tags.export_copies_common_many": "{{count}} valori comuni non sono stati proposti: ciascuno corrisponde a più di {{limit}} righe mantenute",
   "tags.export_copies_common_other": "{{count}} valori comuni non sono stati proposti: ciascuno corrisponde a più di {{limit}} righe mantenute",
