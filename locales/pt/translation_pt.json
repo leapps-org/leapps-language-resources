@@ -435,6 +435,7 @@
   "save_ui_state.tooltip.auto": "Estado da interface do utilizador está a guardar automaticamente",
   "save_ui_state.tooltip.manual": "Clicar para salvar manualmente o estado da interface do utilizador",
   "search.add_examples": "",
+  "search.back_to_results": "",
   "search.col_artifact": "",
   "search.col_rows": "",
   "search.col_terms": "",

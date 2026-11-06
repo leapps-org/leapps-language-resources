@@ -416,6 +416,7 @@
   "save_ui_state.tooltip.auto": "UI-Zustand wird automatisch gespeichert",
   "save_ui_state.tooltip.manual": "Klicken Sie hier, um den UI-Zustand manuell zu speichern",
   "search.add_examples": "",
+  "search.back_to_results": "",
   "search.col_artifact": "",
   "search.col_rows": "",
   "search.col_terms": "",

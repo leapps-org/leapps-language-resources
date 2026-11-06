@@ -436,6 +436,7 @@
   "save_ui_state.tooltip.auto": "L'état de l'interface utilisateur est enregistré automatiquement",
   "save_ui_state.tooltip.manual": "Cliquez pour enregistrer manuellement l'état de l'interface utilisateur",
   "search.add_examples": "",
+  "search.back_to_results": "",
   "search.col_artifact": "",
   "search.col_rows": "",
   "search.col_terms": "",

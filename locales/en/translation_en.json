@@ -407,6 +407,7 @@
   "save_ui_state.tooltip.auto": "UI State is automatically saving",
   "save_ui_state.tooltip.manual": "Click to manually save UI state",
   "search.add_examples": "Add example terms from a federal filter protocol",
+  "search.back_to_results": "Back to search results",
   "search.col_artifact": "Artifact",
   "search.col_rows": "Rows",
   "search.col_terms": "Terms found",
