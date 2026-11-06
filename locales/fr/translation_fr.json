@@ -242,6 +242,7 @@
   "exportv2.include_logs_tip": "Ces éléments listent les chemins des fichiers sources, qui peuvent nommer des fichiers couverts par le secret professionnel. Les informations de l'appareil sont toujours incluses.",
   "exportv2.include_media": "Médias",
   "exportv2.include_paths": "Nom du dossier source et chemins",
+  "exportv2.include_paths_html_tip": "Le nom du dossier du cas et le chemin du fichier .lava source. Les noms de dossier peuvent nommer un client ou un avocat.",
   "exportv2.include_paths_tip": "Le nom du dossier de l'affaire, le chemin du fichier .lava source et les chemins d'entrée, de sortie et de profil LEAPP. Les noms de dossiers peuvent nommer un client ou un avocat.",
   "exportv2.label": "Libellé de production",
   "exportv2.label_tip": "Facultatif, par exemple Livraison 1. Affiché à quiconque ouvre l'export.",

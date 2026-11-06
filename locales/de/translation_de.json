@@ -230,6 +230,7 @@
   "exportv2.include_logs_tip": "Diese enthalten Quelldateipfade, die privilegierte Dateien benennen können. Geräteinformationen werden immer einbezogen.",
   "exportv2.include_media": "Medien",
   "exportv2.include_paths": "Name des Quellordners und Pfade",
+  "exportv2.include_paths_html_tip": "Der Name des Fallordners und der Pfad der Quell-.lava-Datei. Ordnernamen können einen Mandanten oder einen Anwalt nennen.",
   "exportv2.include_paths_tip": "Der Name des Fallordners, der Pfad der Quell-.lava-Datei sowie die LEAPP-Eingabe-, Ausgabe- und Profilpfade. Ordnernamen können einen Mandanten oder einen Anwalt benennen.",
   "exportv2.label": "Lieferbezeichnung",
   "exportv2.label_tip": "Optional, zum Beispiel Lieferung 1. Wird allen angezeigt, die den Export öffnen.",

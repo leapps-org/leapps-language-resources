@@ -223,6 +223,7 @@
   "exportv2.include_logs_tip": "These list source file paths, which can name privileged files. Device info is always included.",
   "exportv2.include_media": "Media",
   "exportv2.include_paths": "Source folder name and paths",
+  "exportv2.include_paths_html_tip": "The case folder name and the path of the source .lava file. Folder names can name a client or an attorney.",
   "exportv2.include_paths_tip": "The case folder name, the source .lava path and the LEAPP input, output and profile paths. Folder names can name a client or an attorney.",
   "exportv2.label": "Production label",
   "exportv2.label_tip": "Optional, for example Release 1. Shown to whoever opens the export.",

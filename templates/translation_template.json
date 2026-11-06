@@ -242,6 +242,7 @@
   "exportv2.include_logs_tip": "",
   "exportv2.include_media": "",
   "exportv2.include_paths": "",
+  "exportv2.include_paths_html_tip": "",
   "exportv2.include_paths_tip": "",
   "exportv2.label": "",
   "exportv2.label_tip": "",

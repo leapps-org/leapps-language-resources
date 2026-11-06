@@ -241,6 +241,7 @@
   "exportv2.include_logs_tip": "Questi elencano i percorsi dei file di origine, che possono nominare file coperti da segreto professionale. Le informazioni sul dispositivo sono sempre incluse.",
   "exportv2.include_media": "Media",
   "exportv2.include_paths": "Nome della cartella di origine e percorsi",
+  "exportv2.include_paths_html_tip": "Il nome della cartella del caso e il percorso del file .lava di origine. I nomi delle cartelle possono indicare un cliente o un avvocato.",
   "exportv2.include_paths_tip": "Il nome della cartella del caso, il percorso del file .lava di origine e i percorsi di input, output e profilo di LEAPP. I nomi delle cartelle possono nominare un cliente o un avvocato.",
   "exportv2.label": "Etichetta di produzione",
   "exportv2.label_tip": "Facoltativa, per esempio Produzione 1. Mostrata a chiunque apra l'esportazione.",
